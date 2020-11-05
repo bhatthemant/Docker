@@ -1,0 +1,5 @@
+node_modules
+Dockerfile
+.git
+# *.gulp.js   -- example to exclude file
+# ignoredfolder/**  -- exmaple to exclude folder and subsequent items
